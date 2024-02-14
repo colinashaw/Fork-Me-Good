@@ -17,7 +17,7 @@ When cloning a repositry you do not have write access to, it will automatically 
 You can use the discussion forum in the [Circle Hub Discussion Board.](https://community.madlab.org.uk/c/discussion/)
 
 ## Who maintains and contributes to this project?
-This repository is maintained by Colin Shaw (@colinashaw) on behalf of [Shift Click](https://shiftclick.uk/), a programme of digital skills training workshops powered by [MadLab](https://www.madlab.org.uk/).
+This repository is maintained by Colin Shaw (@colinashaw) for a GitHub course with [MadLab](https://www.madlab.org.uk/).
 
 ## Who has forked this repository?
 When forking this respoitory, amend this line to introduce yourself.
